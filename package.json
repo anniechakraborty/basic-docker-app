@@ -4,7 +4,8 @@
   "description": "dockerizing a basic node express app",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node app.js",
+    "start": "node app.js"
   },
   "author": "annie",
   "license": "ISC",
